@@ -1,4 +1,6 @@
-# Ubiquity EdgeRouter X ER-X Recovery
+---
+title: Ubiquity EdgeRouter X ER-X Recovery
+---
 
 ## Initial situation
 A friend offered me a used
